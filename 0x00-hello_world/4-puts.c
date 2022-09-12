@@ -1,9 +1,6 @@
 #include <stdio.h>
-/**
- * main - main block prints the string in the put function
- * description: using the main function
- * this program prints 'programming is like a multilingual puzzle'
- * return:0
+/** main prints the phrase 'programming is like buikding a multilingual puzzle
+ * Return: 0 if executed properly, non-zero otherwise invalid
  */
 int main(void)
 {
