@@ -1,5 +1,6 @@
 #include <stdio.h>
-/** main prints the phrase 'programming is like buikding a multilingual puzzle
+/**
+ * main - Entry point 
  * Return: 0 if executed properly, non-zero otherwise invalid
  */
 int main(void)
