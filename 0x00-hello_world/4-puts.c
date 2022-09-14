@@ -1,6 +1,7 @@
 #include <stdio.h>
-/**
+/*
  * main - Entry point 
+ *
  * Return: 0 if executed properly, non-zero otherwise invalid
  */
 int main(void)
