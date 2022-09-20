@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /**
- * main - Entry point 
+ * main - main block
  *
- * Return: 0 if executed properly, non-zero otherwise invalid
+ * return: 0
  */
 
 int main(void)
