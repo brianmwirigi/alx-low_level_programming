@@ -18,5 +18,5 @@ void _puts(char *str)
 		putchar(*(str + i));
 		i++;
 	}
-	purchar(10);
+	putchar(10);
 }
